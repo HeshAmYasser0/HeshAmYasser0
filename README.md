@@ -6,7 +6,6 @@
 
 <div align="center">
  <a href = 'https://twitter.com/HaSh_3003'> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> </a>
- <a href = 'hash.33'>  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /> </a>
  <a href = 'https://codepen.io/HaSh_Perfecto'>  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  /> </a>
  <a href = 'https://web.facebook.com/flex3003'>  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /> </a>
 </div>
