@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Hesham Yasser from EGYPT<br><br>- 🔭 I’m Owner and CEO‎ Of a Perfecto.Dev<br>- 😄 im front end developer<br>- ⚡ im graphic designer<br>- I am a web programmer from Cairo, Egypt. I have worked in website development for 4 years. I enjoy converting ui/ux designs into code and turning them into attractive and easy-to-use websites for users and moderators.</p>
+<p align="left">I'm Hesham Yasser from EGYPT<br><br>- 🔭 I’m Owner and CEO‎ Of a Perfecto.Dev<br>- 😄 im full stack developer<br>- ⚡ im graphic designer<br>- I am a web programmer from Cairo, Egypt. I have worked in website development for 4 years. I enjoy converting ui/ux designs into code and turning them into attractive and easy-to-use websites for users and moderators.</p>
 
 ###
 
