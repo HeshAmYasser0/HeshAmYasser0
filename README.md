@@ -1,7 +1,18 @@
 
 
 ###
+<style>
+ #tools  { 
+display : flex;
+justify-content: space-evenly;
+align-items: center;
+flex-wrap: wrap;
 
+ } 
+  #tools img { 
+    margin: 20px 15px;
+  }
+</style>
 <div align="center">
  <a href = 'https://twitter.com/HaSh_3003'> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> </a>
  <a href = 'https://codepen.io/HaSh_Perfecto'>  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  /> </a>
@@ -26,7 +37,7 @@
 
 ###
 
-<div align="center">
+<div id='tools' align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
